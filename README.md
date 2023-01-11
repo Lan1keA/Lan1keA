@@ -9,7 +9,7 @@
           「 std::cout << "Yet" << std::endl; 」
           「 print("another") 」
           「 puts("cyber"); 」
-          「 echo -e "dog" 」
+          「 echo -e "doge" 」
       <br>「 mov r0, #1; ldr r1, ="."; mov r2, #3; mov r7, #4; swi #0 」
         </samp>
 </p>
